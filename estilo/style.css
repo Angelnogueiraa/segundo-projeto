@@ -84,6 +84,7 @@ section.imagem > p {
 section#img01 {
     background-image: url('../imagens/ladybug.jpg');
     background-size: cover;
+    background-position: right center;
 }
 
 section#img02 {
